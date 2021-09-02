@@ -1,0 +1,18 @@
+.btn {
+    padding: 12px 15px; 
+    font-family: Arial, sans-serif; 
+    font-weight: bold;
+    background: linear-gradient(30deg, rebeccapurple, magenta); 
+    color: #fff; 
+    border: none;
+}
+
+.container {
+    height: 200px;
+    width: 300px;
+    outline: 5px;
+    background-color: aquamarine;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
